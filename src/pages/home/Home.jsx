@@ -63,7 +63,7 @@ const Home = ({ type }) => {
           </div>
 
           <div className="search">
-            <div className="headerSearchItem1">
+            <div className="spaceItem">
               <div className="spaceItem">DESTINATION</div>
               <div className="headerSearchInput">
                 <input
